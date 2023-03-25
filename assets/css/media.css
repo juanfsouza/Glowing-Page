@@ -1,0 +1,79 @@
+@media(max-width: 992px){
+    .categories .item:first-child{
+        margin-bottom: 25px;
+    }
+    .categories .inner-row{
+       row-gap: 0;
+    }
+    p.sub-title{
+        width: 100%!important;
+    }
+    .features{
+        padding-bottom: 2%;
+    }
+    .features .item{
+        margin-bottom: 8%;
+    }
+    .features .item i {
+        margin-bottom: 8%;
+    }
+    .news .row{
+        row-gap: 25px;
+    }
+    .news .newsletter input {
+        width: 70%;
+    }
+    .footer p.desc{
+        margin-bottom: 1rem;
+    }
+    .footer .item{
+        margin-bottom: 5%;
+    }
+    .footer .row:last-child{
+        margin-top: 15px;
+    }
+    .footer i{
+        margin-left: 0.5rem;
+    }
+}
+@media(max-width: 576px){
+    .best-sellers, .new-arrivals {
+        padding-bottom: 23%;
+    }
+    .best-sellers .owl-dots, .new-arrivals .owl-dots{
+        bottom: -3rem;
+    }
+    .new-arrivals{
+        padding-top: 11%;
+    }
+    .news .item h3.first {
+        margin-bottom: 1.25rem;
+    }
+    .news .item a{
+        padding: 0.5rem 1rem;
+    }    
+    .news .item p{
+        margin-bottom: 1rem!important;
+    }
+    .news .item h3 {
+        font-size: 1.5rem;
+        margin-top: 1rem;
+        margin-bottom: 1.25rem!important;
+    }
+    .news .newsletter .input{
+        margin-top: 7%;
+    }
+    .news .newsletter .input a {
+        padding: 0.5rem 0.75rem;
+    }
+    .footer .item h4 {
+        margin-bottom: 1rem;
+    }
+    .footer .item ul {
+        margin-bottom: 1.75rem;
+    }
+    .footer .row:last-child .col-md-4{
+        text-align: center;
+        margin-bottom: 1.25rem;
+    }
+}
