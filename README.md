@@ -1,5 +1,5 @@
 # Glowing-Page
-Bom fiquei alguns dias criando uma pagina de um loja de cosmetico Store Glowing com intuito de ficar mais perto de site profissional esse foi resultado.
+Bom fiquei alguns dias criando uma pagina de uma loja de cosmetico Store Glowing com intuito de ficar mais perto de site profissional esse foi resultado.
 
 ## Foi usado
 - Boostrap 
